@@ -45,6 +45,8 @@ Clone this project and start with Expo:
         <b>WhatsApp Profissional:+55 (69) 9.8405-2620</b>
     </sub>
     <br />
+    <br />
+    <br />
 </a>
      <a href="https://github.com/SilvaneiMartins" title="Silvanei martins" >
     🚀
