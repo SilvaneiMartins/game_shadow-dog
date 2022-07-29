@@ -3,6 +3,11 @@
 
 Game Shadow Dog + Javascript + Html + CSS
 
+Projetinho basico de animação atraves de imagem compartilhada na raiz do projeto, com logica e configuração da forma correta você consegue criar pequenas animações utilizando html, css, javascript.
+
+É um dos primeiros conceitos para desenvolver games utlizando javascript + html + css para web.
+
+
 ## Imagem e Vídeo do Projeto
 <a href="https://imgur.com/euyOEAq"><img src="https://i.imgur.com/euyOEAq.png" title="source: imgur.com" /></a>
 
