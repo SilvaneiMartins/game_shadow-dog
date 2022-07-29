@@ -6,7 +6,8 @@ Game Shadow Dog + Javascript + Html + CSS
 ## Imagem e Vídeo do Projeto
 <a href="https://imgur.com/euyOEAq"><img src="https://i.imgur.com/euyOEAq.png" title="source: imgur.com" /></a>
 
-![Alt Text](https://i.imgur.com/gBVFpoc.gif)
+<img src="https://i.imgur.com/gBVFpoc.gif" /
+
 
 ## Ferramentas
 
