@@ -6,8 +6,7 @@ Game Shadow Dog + Javascript + Html + CSS
 ## Imagem e Vídeo do Projeto
 <a href="https://imgur.com/euyOEAq"><img src="https://i.imgur.com/euyOEAq.png" title="source: imgur.com" /></a>
 
-https://i.imgur.com/gBVFpoc.gif
-
+![Alt Text](https://i.imgur.com/gBVFpoc.gif)
 
 ## Ferramentas
 
@@ -44,6 +43,7 @@ Clone this project and start with Expo:
     <br />
         <b>WhatsApp Profissional:+55 (69) 9.8405-2620</b>
     </sub>
+    <br />
 </a>
      <a href="https://github.com/SilvaneiMartins" title="Silvanei martins" >
     🚀
